@@ -1,6 +1,6 @@
 ```
 
-# 📊 Entrevistador de Carreira na Área de Analise de Dados
+# 📊 Entrevistador de Carreira na Área de Analise de Dados ou IA
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
